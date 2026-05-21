@@ -143,7 +143,7 @@ process.stdout.write('Building teambuilder-tables.js... ');
 		if (!ls) continue;
 		learnsets[id] = {};
 		for (const moveid in ls) {
-			learnsets[id][moveid] = '9';
+			learnsets[id][moveid] = '29';
 		}
 	}
 

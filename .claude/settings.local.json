@@ -5,7 +5,8 @@
       "Bash(ls \"C:\\\\Users\\\\Trish\\\\Documents\\\\GAME DEV\\\\QDEX SHOWDOWN\\\\\")",
       "PowerShell(ls \"C:\\\\Users\\\\Trish\\\\Documents\\\\GAME DEV\\\\QDEX SHOWDOWN\\\\\")",
       "Bash(npm --version)",
-      "Bash(ls /mnt/c/Users/Trish/AppData/Roaming/ 2>/dev/null | head -20)"
+      "Bash(ls /mnt/c/Users/Trish/AppData/Roaming/ 2>/dev/null | head -20)",
+      "Bash(node -e ' *)"
     ]
   }
 }

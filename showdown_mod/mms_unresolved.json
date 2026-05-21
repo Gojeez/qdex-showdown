@@ -1,0 +1,389 @@
+{
+  "tyrdraga": [
+    "L65:FIRE_PUNCH\u2192promethean(leader fallback)"
+  ],
+  "gigasynapa": [
+    "L34:MUD_BOMB\u2192feculence(leader fallback)"
+  ],
+  "rhoco": [
+    "L8:MOVE_SLEEP\u2192herbaldust(leader fallback)",
+    "L11:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "elecule": [
+    "L70:HYPER_BEAM\u2192rainoffire(leader fallback)"
+  ],
+  "hivemaim": [
+    "L30:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "hoatot": [
+    "L36:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "hoatoxic": [
+    "L38:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "noxromaeus": [
+    "L40:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "porceling": [
+    "L24:MUD_BOMB\u2192feculence(leader fallback)"
+  ],
+  "claymore": [
+    "L24:MUD_BOMB\u2192feculence(leader fallback)"
+  ],
+  "sirracotta": [
+    "L24:MUD_BOMB\u2192feculence(leader fallback)",
+    "L65:SHIELDBREAK\u2192boneshatter(leader fallback)"
+  ],
+  "nomster": [
+    "L9:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "nomsabre": [
+    "L9:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "sprunny": [
+    "L30:LEECH_SEED\u2192lifeforce(leader fallback)"
+  ],
+  "onioni": [
+    "L31:LEECH_SEED\u2192lifeforce(leader fallback)"
+  ],
+  "onionion": [
+    "L31:LEECH_SEED\u2192lifeforce(leader fallback)"
+  ],
+  "prawmate": [
+    "L9:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "shrimpanzi": [
+    "L9:MINIMIZE\u2192impishgaze(leader fallback)",
+    "L44:MUD_BOMB\u2192feculence(leader fallback)"
+  ],
+  "swimian": [
+    "L9:MINIMIZE\u2192impishgaze(leader fallback)",
+    "L46:MUD_BOMB\u2192feculence(leader fallback)"
+  ],
+  "nyalley": [
+    "L1:QUICK_ATTACK\u2192earlybird(leader fallback)",
+    "L28:GRAVITY_BOMB\u2192worldweight(leader fallback)"
+  ],
+  "felioritte": [
+    "L30:GRAVITY_BOMB\u2192worldweight(leader fallback)"
+  ],
+  "aeolous": [
+    "L41:IRON_TAIL\u2192rampage(leader fallback)",
+    "L46:SHIELDBREAK\u2192boneshatter(leader fallback)",
+    "L69:MEGAHORN\u2192antlerthwack(leader fallback)"
+  ],
+  "eukub": [
+    "L40:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "koagan": [
+    "L29:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L43:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "pocalyptus": [
+    "L29:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L43:POISON_JAB\u2192lacedtip(leader fallback)",
+    "L59:MEGAHORN\u2192antlerthwack(leader fallback)"
+  ],
+  "blasphermy": [
+    "L49:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "junobe": [
+    "L29:GRAVITY_BOMB\u2192worldweight(leader fallback)"
+  ],
+  "voyapod": [
+    "L29:GRAVITY_BOMB\u2192worldweight(leader fallback)"
+  ],
+  "exotunity": [
+    "L1:MEGAHORN\u2192antlerthwack(leader fallback)",
+    "L1:SPIKE_CANNON\u2192needletoss(leader fallback)",
+    "L13:MOVE_TRAP\u2192entomb(leader fallback)",
+    "L29:GRAVITY_BOMB\u2192worldweight(leader fallback)",
+    "L70:HYPER_BEAM\u2192rainoffire(leader fallback)"
+  ],
+  "bobbitrap": [
+    "L70:MOVE_OHKO\u2192endtimes(leader fallback)"
+  ],
+  "happig": [
+    "L35:MINIMIZE\u2192impishgaze(leader fallback)",
+    "L42:IRON_TAIL\u2192rampage(leader fallback)"
+  ],
+  "ambinni": [
+    "L11:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "bundegraf": [
+    "L11:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "voltinger": [
+    "L11:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "gnomercy": [
+    "L38:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "slisces": [
+    "L28:SPIKE_CANNON\u2192needletoss(leader fallback)"
+  ],
+  "dreadge": [
+    "L31:SPIKE_CANNON\u2192needletoss(leader fallback)"
+  ],
+  "dolmite": [
+    "L18:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "dolmesa": [
+    "L18:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "cairnivore": [
+    "L18:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "moperdor": [
+    "L17:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "majesdor": [
+    "L17:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "ampala": [
+    "L50:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "jaddice": [
+    "L58:HI_JUMP_KICK\u2192starfall(leader fallback)"
+  ],
+  "barnom": [
+    "L27:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "baelee": [
+    "L27:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "fluffruit": [
+    "L19:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L40:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "scruffruit": [
+    "L19:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L45:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "pitayrant": [
+    "L19:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L52:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "eelkie": [
+    "L41:MEGAHORN\u2192antlerthwack(leader fallback)"
+  ],
+  "mossarre": [
+    "L47:MEGAHORN\u2192antlerthwack(leader fallback)"
+  ],
+  "lanatun": [
+    "L15:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L33:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "pepoffer": [
+    "L15:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L34:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "djamm": [
+    "L10:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L37:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "cantalone": [
+    "L17:QUICK_ATTACK\u2192earlybird(leader fallback)",
+    "L30:SPIKE_CANNON\u2192needletoss(leader fallback)"
+  ],
+  "cantogetha": [
+    "L11:QUICK_ATTACK\u2192earlybird(leader fallback)",
+    "L30:SPIKE_CANNON\u2192needletoss(leader fallback)"
+  ],
+  "sappura": [
+    "L29:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "leaffigy": [
+    "L29:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "oscurasa": [
+    "L10:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "madrugasa": [
+    "L1:MOVE_WEATHER\u2192cloudchart(leader fallback)",
+    "L10:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "peacolder": [
+    "L1:NIGHTMARE\u2192prophecy(leader fallback)"
+  ],
+  "clibble": [
+    "L15:SPIKE_CANNON\u2192needletoss(leader fallback)"
+  ],
+  "giguard": [
+    "L15:SPIKE_CANNON\u2192needletoss(leader fallback)",
+    "L20:MOVE_TRAP\u2192entomb(leader fallback)"
+  ],
+  "gigerator": [
+    "L15:SPIKE_CANNON\u2192needletoss(leader fallback)",
+    "L52:IRON_TAIL\u2192rampage(leader fallback)"
+  ],
+  "wallarrior": [
+    "L62:HI_JUMP_KICK\u2192starfall(leader fallback)"
+  ],
+  "falwodur": [
+    "L20:SPIKE_CANNON\u2192needletoss(leader fallback)",
+    "L45:SHIELDBREAK\u2192boneshatter(leader fallback)"
+  ],
+  "falwodraig": [
+    "L24:SPIKE_CANNON\u2192needletoss(leader fallback)",
+    "L46:SHIELDBREAK\u2192boneshatter(leader fallback)",
+    "L73:HYPER_BEAM\u2192rainoffire(leader fallback)"
+  ],
+  "mandelblob": [
+    "L25:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "helactal": [
+    "L25:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "noomsday": [
+    "L9:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "ganzorah": [
+    "L61:ICE_BEAM\u2192wintertide(leader fallback)",
+    "L76:HYPER_BEAM\u2192rainoffire(leader fallback)"
+  ],
+  "tartarus": [
+    "L34:NIGHTMARE\u2192prophecy(leader fallback)",
+    "L43:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "illoomen": [
+    "L78:MOVE_OHKO\u2192endtimes(leader fallback)"
+  ],
+  "mammothra": [
+    "L45:ICE_BEAM\u2192wintertide(leader fallback)"
+  ],
+  "behemothra": [
+    "L46:ICE_BEAM\u2192wintertide(leader fallback)"
+  ],
+  "subceros": [
+    "L44:MEGAHORN\u2192antlerthwack(leader fallback)"
+  ],
+  "wellwitch": [
+    "L1:LEECH_SEED\u2192lifeforce(leader fallback)"
+  ],
+  "koukaika": [
+    "L52:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "saigohana": [
+    "L52:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "radeon": [
+    "L41:IRON_TAIL\u2192rampage(leader fallback)"
+  ],
+  "scaulter": [
+    "L45:IRON_TAIL\u2192rampage(leader fallback)"
+  ],
+  "brehonnos": [
+    "L38:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L50:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "wormacho": [
+    "L6:MOVE_TRAP\u2192entomb(leader fallback)"
+  ],
+  "crustazer": [
+    "L49:ROLLOUT\u2192rushdown(leader fallback)",
+    "L54:MEGAHORN\u2192antlerthwack(leader fallback)"
+  ],
+  "sqwucky": [
+    "L33:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "squeenie": [
+    "L32:MINIMIZE\u2192impishgaze(leader fallback)",
+    "L47:HI_JUMP_KICK\u2192starfall(leader fallback)"
+  ],
+  "virues": [
+    "L31:LEECH_SEED\u2192lifeforce(leader fallback)"
+  ],
+  "plantenna": [
+    "L21:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L40:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "habble": [
+    "L21:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L28:MOVE_WEATHER\u2192cloudchart(leader fallback)"
+  ],
+  "satelisk": [
+    "L21:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L44:GRAVITY_BOMB\u2192worldweight(leader fallback)"
+  ],
+  "shabbycat": [
+    "L24:QUICK_ATTACK\u2192earlybird(leader fallback)",
+    "L50:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "brigadoom": [
+    "L45:SHIELDBREAK\u2192boneshatter(leader fallback)"
+  ],
+  "smitten": [
+    "L42:ICE_BEAM\u2192wintertide(leader fallback)"
+  ],
+  "wyrdrobe": [
+    "L42:ICE_BEAM\u2192wintertide(leader fallback)"
+  ],
+  "maulzer": [
+    "L26:QUICK_ATTACK\u2192earlybird(leader fallback)"
+  ],
+  "swazzage": [
+    "L49:FIRE_PUNCH\u2192promethean(leader fallback)"
+  ],
+  "grimpact": [
+    "L65:ROLLOUT\u2192rushdown(leader fallback)"
+  ],
+  "digespic": [
+    "L11:MINIMIZE\u2192impishgaze(leader fallback)",
+    "L34:LEECH_SEED\u2192lifeforce(leader fallback)"
+  ],
+  "painsaw": [
+    "L48:MOVE_PARALYZE\u2192surprise(leader fallback)"
+  ],
+  "casanocte": [
+    "L20:SHIELDBREAK\u2192boneshatter(leader fallback)",
+    "L55:HYPER_BEAM\u2192rainoffire(leader fallback)"
+  ],
+  "lamseed": [
+    "L22:LEECH_SEED\u2192lifeforce(leader fallback)"
+  ],
+  "vegetebaa": [
+    "L22:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L43:GIGA_DRAIN\u2192inkwell(leader fallback)"
+  ],
+  "baafomet": [
+    "L22:LEECH_SEED\u2192lifeforce(leader fallback)",
+    "L37:MEGAHORN\u2192antlerthwack(leader fallback)",
+    "L43:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "navigazer": [
+    "L26:GRAVITY_BOMB\u2192worldweight(leader fallback)"
+  ],
+  "obelith": [
+    "L55:MOVE_WEATHER\u2192cloudchart(leader fallback)"
+  ],
+  "slowhog": [
+    "L18:PROTECT\u2192greatshield(leader fallback)",
+    "L31:MINIMIZE\u2192impishgaze(leader fallback)",
+    "L60:HYPER_BEAM\u2192rainoffire(leader fallback)"
+  ],
+  "eyechosis": [
+    "L45:HI_JUMP_KICK\u2192starfall(leader fallback)",
+    "L99:MOVE_OHKO\u2192endtimes(leader fallback)"
+  ],
+  "halloallo": [
+    "L6:SPIKE_CANNON\u2192needletoss(leader fallback)",
+    "L58:MINIMIZE\u2192impishgaze(leader fallback)"
+  ],
+  "ambionic": [
+    "L36:GIGA_DRAIN\u2192inkwell(leader fallback)",
+    "L50:POISON_JAB\u2192lacedtip(leader fallback)"
+  ],
+  "viivii": [
+    "L35:MOVE_HEAL\u2192mendwound(leader fallback)",
+    "L70:MOVE_SLEEP\u2192herbaldust(leader fallback)",
+    "L75:HYPER_BEAM\u2192rainoffire(leader fallback)"
+  ],
+  "drassal": [
+    "L25:PROTECT\u2192greatshield(leader fallback)",
+    "L45:SHIELDBREAK\u2192boneshatter(leader fallback)"
+  ],
+  "anomully": [
+    "L43:SHIELDBREAK\u2192boneshatter(leader fallback)"
+  ]
+}

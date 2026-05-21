@@ -1,5 +1,7 @@
-// Quarantine Crystal abilities
-export const Abilities: import('../sim/dex-abilities').AbilityDataTable = {
+// Quarantine Crystal abilities (Modern format)
+import {"Abilities"} from "../../../sim/dex-data";
+
+export const Abilities: typeof Abilities = {
 	"flareboost": {"id": "flareboost", "name": "Flare Boost", "rating": 3, "num": -1, "desc": "If Burned, boost Attack and Spec. Attack", "shortDesc": "If Burned, boost Attack and Spec. Attack"},
 	"speedboost": {"id": "speedboost", "name": "Speed Boost", "rating": 3, "num": -1, "desc": "If Speed is boosted, Spec. Attack boosts as well", "shortDesc": "If Speed is boosted, Spec. Attack boosts as well"},
 	"hunterinstinct": {"id": "hunterinstinct", "name": "Hunter Instinct", "rating": 3, "num": -1, "desc": "Heals from KOing foes", "shortDesc": "Heals from KOing foes"},

@@ -1,5 +1,7 @@
 // Quarantine Crystal moves — QC type split + Strange categories
-export const Moves: import('../sim/dex-moves').MoveDataTable = {
+import {"Moves"} from "../../../sim/dex-data";
+
+export const Moves: typeof Moves = {
 	"movebasicattack": {"name": "Move Basic Attack", "num": -1, "accuracy": 100, "basePower": 40, "category": "Physical", "pp": 35, "type": "Normal", "secondary": null, "desc": "[QC] Effect: EFFECT_NORMAL_HIT. Fill in description.", "shortDesc": "[QC] EFFECT_NORMAL_HIT"},
 	"crosschop": {"name": "Cross Chop", "num": -1, "accuracy": 80, "basePower": 100, "category": "Physical", "pp": 5, "type": "Fighting", "secondary": null, "desc": "[QC] Effect: EFFECT_NORMAL_HIT. Fill in description.", "shortDesc": "[QC] EFFECT_NORMAL_HIT"},
 	"doubleslap": {"name": "Doubleslap", "num": -1, "accuracy": 90, "basePower": 22, "category": "Physical", "pp": 25, "type": "Normal", "secondary": null, "desc": "[QC] Effect: EFFECT_DOUBLE_HIT. Fill in description.", "shortDesc": "[QC] EFFECT_DOUBLE_HIT"},

@@ -1,5 +1,7 @@
-// Quarantine Crystal base pokedex — no abilities (used by both GBC and Modern)
-export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
+// QC GBC pokedex — No Ability on all species
+import {"Pokedex"} from "../../../sim/dex-data";
+
+export const Pokedex: typeof Pokedex = {
 	"kordiena": {"name": "Kordiena", "num": -1, "types": ["Normal"], "baseStats": {"hp": 54, "atk": 54, "def": 62, "spe": 62, "spa": 54, "spd": 54}, "heightm": 1.0, "weightkg": 10.0, "color": "Red", "eggGroups": ["Fish"], "catchRate": 45, "expYield": 92, "growthRate": "Medium Fast", "gender": "N", "abilities": {"0": "No Ability"}},
 	"sordraeda": {"name": "Sordraeda", "num": -1, "warning": "no base stats found"},
 	"tyrdraga": {"name": "Tyrdraga", "num": -1, "types": ["Fire", "Dragon"], "baseStats": {"hp": 80, "atk": 125, "def": 105, "spe": 70, "spa": 80, "spd": 70}, "heightm": 1.0, "weightkg": 10.0, "color": "Red", "eggGroups": ["Grass", "Monster"], "catchRate": 45, "expYield": 180, "growthRate": "Medium Fast", "gender": "N", "abilities": {"0": "No Ability"}},

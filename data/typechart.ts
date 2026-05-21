@@ -1,4 +1,4 @@
-export const TypeChart: import('../sim/dex-data').TypeDataTable = {
+﻿export const TypeChart: import('../sim/dex-data').TypeDataTable = {
 	bug: {
 		damageTaken: {
 			Bug: 0,
@@ -480,5 +480,14 @@ export const TypeChart: import('../sim/dex-data').TypeDataTable = {
 		},
 		HPivs: { atk: 30, def: 30, spa: 30 },
 		HPdvs: { atk: 14, def: 13 },
+	},
+
+	strange: {
+		damageTaken: {
+			Bug: 0, Dark: 0, Dragon: 0, Electric: 0, Fairy: 0, Fighting: 0,
+			Fire: 0, Flying: 0, Ghost: 0, Grass: 0, Ground: 0, Ice: 0,
+			Normal: 0, Poison: 0, Psychic: 0, Rock: 0, Steel: 0, Water: 0,
+			Strange: 0,
+		},
 	},
 };
